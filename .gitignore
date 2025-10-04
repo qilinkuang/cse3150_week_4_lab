@@ -1,3 +1,4 @@
 solution
 *.csv
 __pycache__/
+*.out
